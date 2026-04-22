@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hello hello!👋
+
+### About me
+I'm Andreas from Sweden, and I work as a Lead system architect at Pegasystems.
+
+
+
+### Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/and-lantz/)
+
+
 
 <!--
 **AndreasLantz/AndreasLantz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
